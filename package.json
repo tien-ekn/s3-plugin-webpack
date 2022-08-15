@@ -1,6 +1,6 @@
 {
-  "name": "webpack-s3-plugin",
-  "version": "1.2.00",
+  "name": "@tienql/webpack-s3-plugin",
+  "version": "1.2.1",
   "description": "Uploads compiled assets to s3 after build",
   "main": "dist/s3_plugin.js",
   "scripts": {
@@ -27,9 +27,9 @@
   "author": "Mika Kalathil",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/webpack-contrib/s3-plugin-webpack/issues"
+    "url": "https://github.com/tien-ekn/s3-plugin-webpack/issues"
   },
-  "homepage": "https://github.com/webpack-contrib/s3-plugin-webpack",
+  "homepage": "https://github.com/tien-ekn/s3-plugin-webpack",
   "dependencies": {
     "aws-sdk": "^2.784.0",
     "cdnizer": "^3.2.1",
